@@ -1,0 +1,59 @@
+
+<div>
+<div class="Part-2">
+  <div class="BB1">
+  Some random information   </div>
+
+  <div class="BB2">
+  <img src="images/chef.jpg" alt="Chef Boyardi face">
+  <p class="subtext">this is some subtext under an illustration or image</div>
+  <img src="images/chef.jpg" alt="Chef Boyardi face">
+  <p class="subtext">this is some subtext under an illustration or image</div>
+  <img src="images/chef.jpg" alt="Chef Boyardi face">
+  <p class="subtext">this is some subtext under an illustration or image</div>
+  <img src="images/chef.jpg" alt="Chef Boyardi face">
+  <p class="subtext">this is some subtext under an illustration or image</div>
+          
+  </div>
+
+
+<div class="bx content">
+                <h2>Types of Good Bois</h2>
+                <div class="content-info">
+                    <div>
+                        <img src="images/shib-1.webp">
+                        <p>Best shibs</p>
+                    </div>
+                    <div>
+                        <img src="images/shib-2.webp">
+                        <p>Shibs party</p>
+                    </div>
+                    <div>
+                        <img src="images/shib-3.webp">
+                        <p>Good boi</p>
+                    </div>
+                    <div>
+                        <img src="images/shib-4.webp">
+                        <p>Hat boi</p>
+                    </div>
+                </div>
+            </div>
+
+
+
+<div class="Part-3">
+  This is an inpiring quote, or a testimonial from a customer. Maybe it's just filling up sapce, or maybe people will actually read it. Who knows? All I know is that it looks nice.
+
+<body>
+
+</div>
+
+  <div class="footer">
+  Call to action! It's time!
+  <div class="footer-2">-Thor, God of Thunder</div>
+  <div class="sign-up">
+  Sign up
+
+</div>
+
+  </d
